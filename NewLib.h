@@ -5,6 +5,7 @@ struct complejo
     float x;//real
     float y;//Imaginaria
 };
+//
 
 struct complejo Sumacpx(struct complejo c1,struct complejo c2);
 struct complejo restacpx(struct complejo c1,struct complejo c2);
